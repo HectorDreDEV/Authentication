@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication", "Authentication\Authentication.csproj", "{22DE4877-4EB7-45D7-BD73-F69CD472A079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic", "Basic\Basic.csproj", "{760192E4-88A2-4419-85BE-575F99CFD04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearerServer", "BearerServer\BearerServer.csproj", "{20799013-09BB-436C-927C-56A5AC0E9F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DE4877-4EB7-45D7-BD73-F69CD472A079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DE4877-4EB7-45D7-BD73-F69CD472A079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DE4877-4EB7-45D7-BD73-F69CD472A079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DE4877-4EB7-45D7-BD73-F69CD472A079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760192E4-88A2-4419-85BE-575F99CFD04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760192E4-88A2-4419-85BE-575F99CFD04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760192E4-88A2-4419-85BE-575F99CFD04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760192E4-88A2-4419-85BE-575F99CFD04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20799013-09BB-436C-927C-56A5AC0E9F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20799013-09BB-436C-927C-56A5AC0E9F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20799013-09BB-436C-927C-56A5AC0E9F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20799013-09BB-436C-927C-56A5AC0E9F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

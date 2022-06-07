@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZSYmnahdzo06Cl7haD/o72IiHzuwbA+QCqK4jWyzH8I=",
+  "Source": "BearerServer",
+  "BasePath": "_content/BearerServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
